@@ -1,6 +1,6 @@
 ## Hi there, I'm Wulnan!👋
 
-Full Stack Web Developer |JavaScript | React | Node.js | Clean Code Advocate | Purple Lover 💜 
+Full Stack Web Developer |JavaScript| HTML| CSS | VS Code | React.js | Jest|  Yup | Axios | Node.js | Clean Code Advocate | Purple Lover 💜 
 
 🚀 About Me
 I’m a passionate full stack web developer with experience in building dynamic and responsive web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
