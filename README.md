@@ -6,7 +6,7 @@ Building production-ready web applications with clean code and modern practices.
 
 🚀 Currently Building: An automation tool using MCP to connect AI models with external APIs and services (private repo)
 
-📫 Open to remote opportunities with US/global teams
+📫 Open to remote opportunities with US/UK/Europe/Australia global teams
 
 🌱 What I'm Currently Learning 📌 MCP (Model Context Protocol) for AI-tool integration 📌 Parallel Computing in JS (Web Workers, WebGPU) 📌 Edge Computing & Serverless Architecture
 
